@@ -1,0 +1,12 @@
+expressions:
+  - id: EXP_001
+    name: Confident Direct Gaze
+    category: intense
+    description: Direct eye contact with a strong, self-assured expression and steady gaze.
+    visual_details: { eye_direction: direct gaze into camera, eyebrow_position: neutral, mouth: calm firm lips }
+
+  - id: EXP_002
+    name: Playful Half-Smile
+    category: warm
+    description: A light, engaging smile with a twinkle in the eyes and slight head tilt.
+    visual_details: { eye_direction: engaging camera, eyebrow_position: softly arched, mouth: asymmetrical half-smile }

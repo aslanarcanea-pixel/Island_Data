@@ -1,0 +1,10 @@
+attitudes:
+  - id: ATT_001
+    name: Confident
+    description: Unwavering self-assurance and strong personal presence.
+    keywords: [assured, bold, poised]
+
+  - id: ATT_002
+    name: Feminine
+    description: Graceful, delicate, and inherently soft feminine elegance.
+    keywords: [graceful, delicate, soft]

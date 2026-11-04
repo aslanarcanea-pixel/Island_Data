@@ -1,0 +1,18 @@
+rules:
+  - rule_id: RULE_SEATED_POSTURE_LEGS
+    description: "Seated body postures must use compatible seated or reclined leg positions."
+    target_categories:
+      - body_postures: [BODY_002, BODY_004, BODY_007, BODY_016, BODY_021, BODY_029, BODY_030, BODY_034, BODY_037]
+      - allowed_leg_categories: [sitting, reclining]
+
+  - rule_id: RULE_STANDING_POSTURE_LEGS
+    description: "Standing body postures must use standing or walking leg positions."
+    target_categories:
+      - body_postures: [BODY_001, BODY_003, BODY_005, BODY_006, BODY_008, BODY_009, BODY_014, BODY_018, BODY_019, BODY_022, BODY_024, BODY_025, BODY_028, BODY_031, BODY_035, BODY_036, BODY_038, BODY_040]
+      - allowed_leg_categories: [standing, walking]
+
+  - rule_id: RULE_SURFACE_LEAN_INDEPENDENCE
+    description: "Vertical support lean (BODY_003) is environment-agnostic and compatible with vertical contact surfaces such as walls, pillars, or architectural elements."
+    target_categories:
+      - body_posture: BODY_003
+      - environment_compatibility: [any_vertical_surface, studio, hallway, interior, exterior]

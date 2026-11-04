@@ -1,0 +1,91 @@
+poses:
+  - id: BODY_001
+    name: Confident Hip Shift
+    category: standing
+    description: >
+      Standing upright with the torso elongated and hips shifted slightly to one side,
+      creating a natural S-curve silhouette. The upper body is gently angled toward the viewer
+      with shoulders relaxed and balanced.
+    visual_details:
+      body_orientation: slightly angled to camera
+      spine: naturally elongated with a subtle graceful curve
+      shoulders: relaxed and level
+      torso: gently turned
+      hips: shifted naturally to one side
+      weight_distribution: natural weight shift onto the primary leg
+      balance: centered and poised
+    attitude_tags: [confident, feminine, flirtatious]
+    compatibility_tags: [standing, portrait, full_body]
+    avoid: [unnatural spinal curvature, twisted joints, impossible limb positions]
+
+  - id: BODY_002
+    name: Relaxed Lounge Recline
+    category: reclining
+    description: >
+      Reclining comfortably with the upper body leaning back at an angle against support,
+      upper torso open and relaxed, hips settled downward with fluid horizontal alignment.
+    visual_details:
+      body_orientation: semi-reclined, angled diagonally
+      spine: relaxed curvature following support contour
+      shoulders: dropped and expansive
+      torso: open and relaxed
+      hips: settled flat
+      weight_distribution: supported evenly along length
+      balance: fully stable and relaxed
+    attitude_tags: [relaxed, sophisticated, alluring]
+    compatibility_tags: [reclining, lounge, seated]
+    avoid: [rigid stiffness, awkward slouching]
+
+  - id: BODY_003
+    name: Vertical Support Lean
+    category: leaning
+    description: >
+      Leaning casually with one shoulder resting against a vertical surface, hips angled slightly away,
+      spine forming a clean diagonal line from shoulder to hip.
+    visual_details:
+      body_orientation: profile-angled leaning
+      spine: slight diagonal lean from shoulder to hip
+      shoulders: one shoulder dropped into contact point
+      torso: turned outward toward open space
+      hips: relaxed alignment angled away from contact
+      weight_distribution: partially supported by contact point
+      balance: stable lean
+    attitude_tags: [approachable, casual, confident]
+    compatibility_tags: [leaning, vertical_surface, upright]
+    avoid: [sinking into the surface, unstable footing]
+
+  - id: BODY_004
+    name: Poised Seated Stance
+    category: sitting
+    description: >
+      Sitting upright on the edge of a seat with an attentive and composed posture,
+      spine straight and elegant without stiffness, shoulders square.
+    visual_details:
+      body_orientation: seated forward-facing, slightly angled
+      spine: straight, elegant, and upright
+      shoulders: square, even, and relaxed
+      torso: upright and alert
+      hips: positioned near front edge of seat
+      weight_distribution: balanced across seat and feet
+      balance: active sitting balance
+    attitude_tags: [elegant, professional, composed]
+    compatibility_tags: [sitting, furniture_edge, formal]
+    avoid: [slumping, rigid military posture]
+
+  - id: BODY_005
+    name: Mid-Step Turn
+    category: dynamic movement
+    description: >
+      Caught mid-turn with axial rotation of the spine as the upper body twists back,
+      creating kinetic tension between shoulders and hips.
+    visual_details:
+      body_orientation: twisting pivot, upper body turned back
+      spine: dynamic axial rotation
+      shoulders: rotated relative to hips
+      torso: twisted gracefully
+      hips: facing forward or angled away
+      weight_distribution: dynamic transition over leading foot
+      balance: balanced rotational movement
+    attitude_tags: [playful, dynamic, mysterious]
+    compatibility_tags: [walking, transition, dynamic]
+    avoid: [broken spine angles, frozen unnatural twists]

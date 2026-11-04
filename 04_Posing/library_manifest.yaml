@@ -1,0 +1,23 @@
+library_id: character_pose_library_v2.0
+version: "2.0.0"
+description: "Master manifest for the Island Image Prompt Studio environment-agnostic, decoupled character pose library."
+modules:
+  - file: body_poses.yaml
+    type: body_posture
+    count: 40
+  - file: leg_positions.yaml
+    type: leg_position
+    count: 25
+  - file: hand_gestures.yaml
+    type: hand_gesture
+    count: 30
+  - file: facial_expressions.yaml
+    type: facial_expression
+    count: 30
+  - file: attitudes.yaml
+    type: attitude
+    count: 20
+  - file: compatibility_rules.yaml
+    type: compatibility_matrix
+  - file: image_generation_rules.yaml
+    type: generation_guidelines

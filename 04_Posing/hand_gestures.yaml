@@ -1,0 +1,18 @@
+hands:
+  - id: HAND_001
+    name: Hand on Hip
+    category: gesturing
+    description: One hand resting gracefully on the hip, elbow angled outward in a clean line.
+    visual_details: { left_hand: resting on hip with relaxed fingers, right_hand: resting naturally at side }
+
+  - id: HAND_002
+    name: Hair Touch
+    category: gesturing
+    description: Fingers gently touching or lifting strands of hair near the temple or neck.
+    visual_details: { left_hand: lifting hair near ear with soft fingers, right_hand: relaxed }
+
+  - id: HAND_003
+    name: Chin Rest / Thoughtful
+    category: gesturing
+    description: Hand lightly touching the chin or jawline in a contemplative gesture.
+    visual_details: { left_hand: fingertips under chin, right_hand: supporting arm }

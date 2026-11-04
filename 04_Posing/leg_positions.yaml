@@ -1,0 +1,18 @@
+legs:
+  - id: LEG_001
+    name: Natural Stance
+    category: standing
+    description: Feet slightly apart with natural spacing, weight evenly distributed, knees soft.
+    visual_details: { left_leg: straight with soft knee, right_leg: relaxed stance position, foot_alignment: natural spacing, angle: slightly turned outward }
+
+  - id: LEG_002
+    name: Hip-Shift Stance
+    category: standing
+    description: One leg bearing primary weight while the other leg extends slightly with a bent knee.
+    visual_details: { left_leg: relaxed knee bent, right_leg: straight weight-bearing, weight_distribution: primary weight on anchor leg }
+
+  - id: LEG_003
+    name: Crossed Ankles Standing
+    category: standing
+    description: Standing with legs crossed loosely at the ankles for an elegant silhouette.
+    visual_details: { left_leg: crossed over right ankle, right_leg: supporting anchor leg }    
